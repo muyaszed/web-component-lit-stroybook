@@ -4,6 +4,10 @@
   "description": "A simple web component",
   "main": "dist",
   "module": "dist",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
