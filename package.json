@@ -1,5 +1,5 @@
 {
-  "name": "my-web-component-library",
+  "name": "boxt-component",
   "version": "0.0.5",
   "description": "A simple web component",
   "main": "dist",
